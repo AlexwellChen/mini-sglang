@@ -179,3 +179,6 @@ python3 -m sglang.launch_server --model "Qwen/Qwen3-32B" --tp 4 \
 
 - **[Detailed Features](./docs/features.md)**: Explore all available features and command-line arguments.
 - **[System Architecture](./docs/structures.md)**: Dive deep into the design and data flow of Mini-SGLang.
+
+## Test Update
+this is a test update for git settings
